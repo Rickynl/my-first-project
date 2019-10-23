@@ -5,3 +5,4 @@ Este es un proyecto de ejemplo para conocer los comandos git
     Esra es una breve descripcion
 ### Autores
 	*Ray Rojas
+	*Gonzales Espinoza
